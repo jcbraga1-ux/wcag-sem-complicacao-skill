@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se usar esta skill, cite o repositório e a WCAG 2.1."
+title: "WCAG sem complicação – Skill com os critérios da WCAG 2.1 em linguagem simples"
+type: software
+authors:
+  - family-names: "Braga"
+    given-names: "Juliana Cristina"
+    affiliation: "Universidade Federal do ABC (UFABC) – Grupo INTERA"
+license: CC-BY-4.0
+repository-code: "https://github.com/jcbraga1-ux/wcag-sem-complicacao-skill"
+keywords:
+  - acessibilidade
+  - WCAG
+  - WCAG 2.1
+  - agent skills
+  - interação humano-computador
+references:
+  - type: standard
+    title: "Web Content Accessibility Guidelines (WCAG) 2.1"
+    authors:
+      - name: "World Wide Web Consortium (W3C)"
+    url: "https://www.w3.org/TR/WCAG21/"
+    year: 2018
