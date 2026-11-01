@@ -1,6 +1,6 @@
 ---
-name: "wcag-sem-complicacao"
-description: "Use para consultar, explicar, aplicar ou auditar os 78 critérios de sucesso da WCAG 2.1 em linguagem simples, com exemplos do caso UBS Jardim Esperança, em sites, apps, protótipos, requisitos ou aulas."
+name: wcag-sem-complicacao
+description: Use para consultar, explicar, aplicar ou auditar os 78 critérios de sucesso da WCAG 2.1 em linguagem simples, com exemplos do caso UBS Jardim Esperança, em sites, apps, protótipos, requisitos ou aulas.
 ---
 
 # WCAG 2.1 sem complicação
