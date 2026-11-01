@@ -15,14 +15,7 @@ As Diretrizes de Acessibilidade para Conteúdo Web (WCAG) dizem o que um site ou
 
 A skill é a pasta [`wcag-sem-complicacao/`](wcag-sem-complicacao/), com o arquivo `SKILL.md`.
 
-- **Assistentes com tela de configurações:** baixe o arquivo pronto na página de [Releases](../../releases), em *Assets*:
-
-  | Assistente | Arquivo | Onde enviar |
-  | --- | --- | --- |
-  | Claude (claude.ai e app) | `wcag-sem-complicacao.zip` | *Configurações › Capacidades › Skills* |
-  | Gemini (app e web) | `wcag-sem-complicacao-gemini.zip` | página de *Skills* do Gemini, opção de enviar arquivo |
-
-  O arquivo `wcag-sem-complicacao-gemini.zip` traz o `SKILL.md` na pasta principal, como o Gemini exige, e também foi testado no Claude.
+- **Claude e Gemini:** baixe o arquivo `wcag-sem-complicacao.zip` na página de [Releases](../../releases), em *Assets*, e envie sem mudar o nome do arquivo (o Gemini exige que o nome do .zip seja igual ao nome da skill). No Claude, envie em *Configurações › Capacidades › Skills*; no Gemini, na página de *Skills*, opção de enviar arquivo. O mesmo arquivo serve para os dois.
 - **Ferramentas que leem skills de uma pasta:** copie a pasta `wcag-sem-complicacao` para o diretório de skills indicado na documentação da ferramenta.
 
 Depois de instalada, basta pedir em linguagem natural, por exemplo: *“Avalie esta tela com a WCAG no nível AA.”*
