@@ -34,7 +34,7 @@ Use o botão *Cite this repository* do GitHub (arquivo [`CITATION.cff`](CITATION
 
 ## Licença
 
-As explicações simplificadas e os exemplos estão licenciados sob [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Os nomes e a numeração dos critérios pertencem à WCAG 2.1, do W3C, distribuída sob a [W3C Document License](https://www.w3.org/copyright/document-license/).
+As explicações simplificadas e os exemplos estão licenciados sob [Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br): você pode usar, adaptar e redistribuir para fins não comerciais, desde que cite a fonte. Não é permitido vender o material nem usá-lo para fins comerciais. As versões até a v1.0.1 foram publicadas sob CC BY 4.0. Os nomes e a numeração dos critérios pertencem à WCAG 2.1, do W3C, distribuída sob a [W3C Document License](https://www.w3.org/copyright/document-license/).
 
 ## Contribuições
 

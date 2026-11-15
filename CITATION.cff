@@ -6,7 +6,9 @@ authors:
   - family-names: "Braga"
     given-names: "Juliana Cristina"
     affiliation: "Universidade Federal do ABC (UFABC) – Grupo INTERA"
-license: CC-BY-4.0
+license: CC-BY-NC-4.0
+version: 1.0.2
+doi: 10.5281/zenodo.23837715
 repository-code: "https://github.com/jcbraga1-ux/wcag-sem-complicacao-skill"
 keywords:
   - acessibilidade
